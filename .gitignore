@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.turbo/
+*.log
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+package-lock.json
+pnpm-lock.yaml
