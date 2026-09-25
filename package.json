@@ -1,6 +1,6 @@
 {
-  "name": "@samuelaure/ui",
-  "version": "0.1.1",
+  "name": "@samuelaure/nau-ui",
+  "version": "0.1.2",
   "description": "Shared design-system components for the naŭ ecosystem",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
